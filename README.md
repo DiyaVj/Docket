@@ -108,3 +108,5 @@ OUTPUT:
 ``` Pending tasks:0 \n Completed tasks:1 ```
 
 <hr>
+
+Create your own docket. Read more information about project on [my dev post](https://dev.to/diyavj/docket-a-cli-application-1o2a).
