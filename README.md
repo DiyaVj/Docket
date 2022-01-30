@@ -23,6 +23,17 @@ Docket___completed.txt
 
 2. Terminal / command prompt/ Windows PowerShell
 
+## How to use?
+
+-> Fork this repository 
+-> Open your git bash in an empty folder.
+-> Clone this repository or run the following command in git bash
+``` git clone https://github.com/DiyaVj/Docket.git ```
+-> On your machine, you should notice a folder called "Docket."
+-> Once the repository has been cloned in your system, open the command prompt/window powershell and navigate to the folder where you cloned this repo. To open the desired location in command prompt/window powershell, type the following command.
+``` cd \Loation\Docket\```
+-> Cheers! You can now use docket, run the programme, and have fun!!
+
 ## Specification
 
 1. Docket app should be execute by running the following command from the terminal.
