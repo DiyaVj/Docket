@@ -109,4 +109,4 @@ OUTPUT:
 
 <hr>
 
-Create your own docket. Read more information about project on [my dev post](https://dev.to/diyavj/docket-a-cli-application-1o2a).
+Create your own docket. Read more information about project on [my dev post](https://dev.to/diyavj/docket-a-cli-application-1o2a) or [Tealfeed](https://tealfeed.com/diya_345977).
